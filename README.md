@@ -43,8 +43,6 @@ AD_BIND_PASS=xxxxxxxxxxxxxxxxxxxxxxxx
 
 # Usage
 
-`godoc github.com/vasiliyaltunin/goad`
-
 You can easy check auth with single function
 
 Example:
